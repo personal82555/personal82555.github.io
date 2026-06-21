@@ -8,16 +8,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-defaults:
-  run:
-    shell: bash
 
 jobs:
   deploy:
@@ -35,12 +25,23 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --destination public
 
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          cname:
+      - name: Copy to root
+        run: |
+          # Move built files into a temp dir
+          mkdir -p /tmp/gh-pages-build
+          cp -r public/* /tmp/gh-pages-build/
+          cp public/.nojekyll /tmp/gh-pages-build/ 2>/dev/null || true
+
+      - name: Commit built files to main
+        run: |
+          rm -rf public
+          cp -r /tmp/gh-pages-build/* .
+          rm -rf /tmp/gh-pages-build
+          git config user.name "Hugo Deploy"
+          git config user.email "admin@88531.cn"
+          git add -A
+          git diff --quiet && git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Deploy $(date '+%Y-%m-%d %H:%M')"
+          git push origin main
