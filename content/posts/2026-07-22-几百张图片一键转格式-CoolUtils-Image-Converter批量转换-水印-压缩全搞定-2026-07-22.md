@@ -1,5 +1,5 @@
 ---
-title: "几百张图片一键转格式！CoolUtils Image Converter批量转换+水印+压缩全搞定 (2026-07-22)"
+title: "几百张图片一键转格式！CoolUtils Image Converter批量转换+水印+压缩全搞定"
 date: 2026-07-22T06:00:00+08:00
 draft: false
 tags: ["软件推荐"]
@@ -69,4 +69,4 @@ slug: "几百张图片一键转格式-coolutils-image-converter批量转换-水�
 
 平台：Windows
 
-**关注公众号「实用软技」，回复关键字「软件」即可免费获取更多实用工具！**
+**关注公众号「实用软技」，回复关键字「软件」即可免费获取更多软件！**

@@ -1,5 +1,5 @@
 ---
-title: "Photoshop必备！Adobe Camera Raw专业调色工具 (2026-08-05)"
+title: "Photoshop必备！Adobe Camera Raw专业调色工具"
 date: 2026-08-05T06:00:00+08:00
 draft: false
 tags: ["软件推荐"]
@@ -50,4 +50,4 @@ Camera Raw是Photoshop的一个预设插件，专门用来处理RAW格式的数�
 
 v18.5 官方版 | Photoshop预设插件
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

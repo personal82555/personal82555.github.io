@@ -73,4 +73,4 @@ LocalSend 安卓/iOS/Windows/Mac/Linux 全平台免费
 
 GitHub：<https://github.com/localsend/localsend>
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

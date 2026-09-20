@@ -64,4 +64,4 @@ https://pan.quark.cn/s/6ae598572faa
 
 GitHub 发布页：https://github.com/daluobo/LitPlayer-release/
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

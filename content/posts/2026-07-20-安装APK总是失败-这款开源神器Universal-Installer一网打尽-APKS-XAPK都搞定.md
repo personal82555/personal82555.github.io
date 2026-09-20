@@ -48,4 +48,4 @@ https://github.com/pass-with-high-score/universal-installer/releases
 
 首次使用记得在设置里打开"未知来源安装"权限（Android 8以上都需要）。如果是 Android 11+ 系统，建议开启 Shizuku 权限体验静默安装，爽到飞起～
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

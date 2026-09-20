@@ -52,4 +52,4 @@ slug: "想下ins-twitter-youtube视频-social-media-downloader一键搞定"
 
 夸克网盘：https://pan.quark.cn/s/73ae1e6f5dc2
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

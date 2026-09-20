@@ -69,4 +69,4 @@ Android、iOS、Windows、Mac、Linux、Android TV——你用什么设备都能
 
 支持平台：Android / iOS / Windows / Mac / Linux / Android TV
 
-**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取**
+**💬 关注公众号：「实用软技」，在公众号窗口里回复关键字「软件」即可免费获取更多软件**

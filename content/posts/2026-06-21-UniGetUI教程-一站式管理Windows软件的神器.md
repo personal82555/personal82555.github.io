@@ -28,4 +28,4 @@ GitHub Releases下载安装包，自动安装依赖和包管理器后端。
 
 GitHub: https://github.com/marticliment/UniGetUI
 
-关注公众号：「实用软技」，在公众号窗口里回复关键字"软件"即可免费获取
+关注公众号：「实用软技」，在公众号窗口里回复关键字"软件"即可免费获取更多软件
